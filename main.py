@@ -63,8 +63,8 @@ import gc
 
 gc.collect()
 
-ssid = 'Home'
-password = 'matrix1402'
+ssid = 'SSID'
+password = 'Password'
 value = True
 User = ''
 s = None
